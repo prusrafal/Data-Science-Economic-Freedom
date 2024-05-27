@@ -14,7 +14,7 @@ This repository contains code for the final project for the course "Data Science
 |           | ready_data          | Data extracted after removing columns with higher p-values. |
 |           | target_data         | The y variable used for prediction.                         |
 | **src/**  | EFIS_DA             | Data analysis code.                                         |
-|           | EFIS_Model___Final  | Prediction models.                                          |
+|           | EFIS_Model_Final  | Prediction models.                                          |
 
 ## Usage
 To replicate the study or explore the data with our analyses, follow these steps:
