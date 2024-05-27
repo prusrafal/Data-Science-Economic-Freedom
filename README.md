@@ -9,11 +9,11 @@ This repository contains code for the final project for the course "Data Science
 
 | Directory | File/Script Name    | Description                                                 |
 |-----------|---------------------|-------------------------------------------------------------|
-| **data/** | EFIS_data.xlsx      | The original dataset.                                       |
+| **data** | EFIS_data.xlsx      | The original dataset.                                       |
 |           | cleaned_data.csv        | Cleaned data; low VIF, no missing values, skewed dataset, no outliers.|
 |           | ready_data.csv          | Data extracted after removing columns with higher p-values. |
 |           | target_data.csv         | The y variable used for prediction.                         |
-| **src/**  | EFIS_DA.ipynb             | Data analysis code.                                         |
+| **src**  | EFIS_DA.ipynb             | Data analysis code.                                         |
 |           | EFIS_Model_Final.ipynb  | Prediction models.                                          |
 | -         | LICENSE              | License information.                                        |
 | -         | README.md            | Project documentation.                                      |
