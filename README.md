@@ -15,6 +15,8 @@ This repository contains code for the final project for the course "Data Science
 |           | target_data.csv         | The y variable used for prediction.                         |
 | **src/**  | EFIS_DA.ipynb             | Data analysis code.                                         |
 |           | EFIS_Model_Final.ipynb  | Prediction models.                                          |
+| -         | LICENSE              | License information.                                        |
+| -         | README.md            | Project documentation.                                      |
 
 ## Usage
 To replicate the study or explore the data with our analyses, follow these steps:
