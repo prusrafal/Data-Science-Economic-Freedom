@@ -26,7 +26,7 @@ To replicate the study or explore the data with our analyses, follow these steps
    - Clone this repository or download the files directly.
 
 3. **Run the Analysis**:
-   - Open the relevant Jupyter notebooks in the `notebooks/` directory to view the primary analysis and models.
+   - Open the relevant Jupyter notebooks in the `src/` directory to view the primary analysis and models.
 
 4. **Explore the Dataset**:
    - Load the dataset into your preferred data analysis tool (e.g., pandas in Python) to explore the dataset independently.
