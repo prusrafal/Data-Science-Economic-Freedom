@@ -10,11 +10,11 @@ This repository contains code for the final project for the course "Data Science
 | Directory | File/Script Name    | Description                                                 |
 |-----------|---------------------|-------------------------------------------------------------|
 | **data/** | EFIS_data.xlsx      | The original dataset.                                       |
-|           | cleaned_data        | Cleaned data; low VIF, no missing values, skewed dataset, no outliers.|
-|           | ready_data          | Data extracted after removing columns with higher p-values. |
-|           | target_data         | The y variable used for prediction.                         |
-| **src/**  | EFIS_DA             | Data analysis code.                                         |
-|           | EFIS_Model_Final  | Prediction models.                                          |
+|           | cleaned_data.csv        | Cleaned data; low VIF, no missing values, skewed dataset, no outliers.|
+|           | ready_data.csv          | Data extracted after removing columns with higher p-values. |
+|           | target_data.csv         | The y variable used for prediction.                         |
+| **src/**  | EFIS_DA.ipynb             | Data analysis code.                                         |
+|           | EFIS_Model_Final.ipynb  | Prediction models.                                          |
 
 ## Usage
 To replicate the study or explore the data with our analyses, follow these steps:
