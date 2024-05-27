@@ -32,7 +32,7 @@ To replicate the study or explore the data with our analyses, follow these steps
    - Load the dataset into your preferred data analysis tool (e.g., pandas in Python) to explore the dataset independently.
 
 **Mount Google Drive (if using Google Colab)**:
-   - If you are running the notebooks on Google Colab, ensure you mount your Google Drive to access the data files. Note that the `EFIS_Model___Final.ipynb` notebook includes mounting Google Drive files. If you want to run it locally, you should change the data directory paths accordingly.
+   - If you are running the notebooks on Google Colab, ensure you mount your Google Drive to access the data files. Note that the `EFIS_Model_Final.ipynb` notebook includes mounting Google Drive files. If you want to run it locally, you should change the data directory paths accordingly.
 
 
 ## Authors
