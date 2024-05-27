@@ -10,7 +10,7 @@ This repository contains code for the final project for the course "Data Science
 | Directory | File/Script Name    | Description                                                 |
 |-----------|---------------------|-------------------------------------------------------------|
 | **data/** | EFIS_data.xlsx      | The original dataset.                                       |
-|           | cleaned_data        | Cleaned data, performing better on predictions.             |
+|           | cleaned_data        | Cleaned data; low VIF, no missing values, skewed dataset, no outliers.|
 |           | ready_data          | Data extracted after removing columns with higher p-values. |
 |           | target_data         | The y variable used for prediction.                         |
 | **src/**  | EFIS_DA             | Data analysis code.                                         |
@@ -30,6 +30,10 @@ To replicate the study or explore the data with our analyses, follow these steps
 
 4. **Explore the Dataset**:
    - Load the dataset into your preferred data analysis tool (e.g., pandas in Python) to explore the dataset independently.
+
+**Mount Google Drive (if using Google Colab)**:
+   - If you are running the notebooks on Google Colab, ensure you mount your Google Drive to access the data files. Note that the `EFIS_Model___Final.ipynb` notebook includes mounting Google Drive files. If you want to run it locally, you should change the data directory paths accordingly.
+
 
 ## Authors
 - Rafał Prus - [202100779@post.au.dk](mailto:202100779@post.au.dk)
