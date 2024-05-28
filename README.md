@@ -1,7 +1,7 @@
 # Data Science: Forecasting Policy Impacts on Economic Freedom
 
 ## Overview
-This repository contains code for the final project for the course "Data Science, Prediction, and Forecasting" at Aarhus University in Denmark, as part of the MSc degree in Cognitive Science. The project involves the Economic Freedom Index Summary (EFIS) data analysis, including data preprocessing, analysis, modelling, and visualization using various data science techniques. The topic of the project is "Forecasting Policy Impacts on Economic Freedom: Machine Learning Approach." The analysis is based on data from the "Economic Freedom of the World" index, published by the Fraser Institute (Ausloos & Bronlet, 2021), which evaluates the extent to which the policies and institutions of countries support economic freedom.
+This repository contains code for the final project for the course "Data Science, Prediction, and Forecasting" at Aarhus University in Denmark, as part of the MSc degree in Cognitive Science. The project involves the Economic Freedom Index Summary (EFIS) data analysis, including data preprocessing, analysis, modelling, and visualization using various data science techniques. The topic of the project is "Forecasting Policy Impacts on Economic Freedom: Machine Learning Approach." The analysis is based on data from the "Economic Freedom of the World" index, published by the Fraser Institute in 2021, which evaluates the extent to which the policies and institutions of countries support economic freedom.
 
 ## Keywords
 `Data Science`, `Economic Freedom`, `Machine Learning`, `Policy Impact`, `Forecasting`, `Neural Networks`
