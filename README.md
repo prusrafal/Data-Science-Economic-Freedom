@@ -42,5 +42,5 @@ To replicate the study or explore the data with our analyses, follow these steps
 - Milena Chołożyńska - [202100776@post.au.dk](mailto:202100776@post.au.dk)
 
 ## Dataset Source
-- [Fraser Institute - Economic Freedom of the World 2023 Annual Report](https://www.fraserinstitute.org/studies/economic-freedom-of-the-world-2023-annual-report)
+- [Fraser Institute - Economic Freedom of the World 2021 Annual Report](https://www.fraserinstitute.org/studies/economic-freedom-of-the-world-2021-annual-report)
 - [Fraser Institute - Dataset](https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&page=dataset&min-year=2&max-year=0&filter=0)
